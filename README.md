@@ -8,4 +8,4 @@
 
 [selfie]: IMG_1217.JPG
 
-2. Tell me something interesting about yourself
+2. I am an ECE with a CS minor, interested in going into Software Engineering
