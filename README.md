@@ -6,6 +6,6 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_1217.jpg
+[selfie]: IMG_1217.JPG
 
 2. Tell me something interesting about yourself
